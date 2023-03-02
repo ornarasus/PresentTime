@@ -1,1 +1,11 @@
-key: 6ebadc82026d6ded06b32a8d7afa545aa430fbc81770146473c45197 # https://dashboard.ipdata.co/
+database:
+  type: SQLite # SQLite, MariaDB, MySQL, PostgreSQL
+  host: localhost
+  port: 3306
+  name: database
+  user: root
+  pass: password
+delayDayCycle: 300
+disabledWorld:
+  - "world_nether"
+  - "world_the_end"

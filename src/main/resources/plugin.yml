@@ -1,6 +1,6 @@
 name: PresentTime
-version: 1
-main: ezo.ornaras.presenttime.presenttime.PresentTime
+version: 2
+main: ezo.ornaras.presenttime.PresentTime
 prefix: PresentTime
 author:  OrnarasUS
 website: https://kwork.ru/user/ornarasus
