@@ -1,8 +1,8 @@
 name: PresentTime
-version: 2
+version: 2.1
 main: ezo.ornaras.presenttime.PresentTime
 prefix: PresentTime
 author:  OrnarasUS
-website: https://kwork.ru/user/ornarasus
+website: https://github.com/ornarasus/PresentTime
 load: POSTWORLD
-database: false
+database: true
