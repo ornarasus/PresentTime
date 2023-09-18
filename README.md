@@ -9,7 +9,7 @@
 * Сборка: Maven
 * SDK: Spigot
 * СУБД: MariaDB, MySQL, PostgreSQL, SQLite
-* API: ip-api
+* API: IP Geolocation API
 ---
 **About the project:** Spigot plugin for synchronizing personal game time with real time
 **Installation:**
@@ -21,4 +21,4 @@
 * Build: Maven
 * SDK: Spigot
 * DB: MariaDB, MySQL, PostgreSQL, SQLite
-* API: ip-api
+* API: IP Geolocation API
